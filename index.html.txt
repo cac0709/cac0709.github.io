@@ -1,0 +1,57 @@
+<html>
+  <head>
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+
+    body{
+      background-color: black
+    }
+    .blue-text {
+      color: blue;
+    }
+    .green-text {
+      color: green;
+    }
+    .yello-text {
+      color: rgb(255, 219, 0);
+    }
+    .orange-text {
+      color: orange;}
+    .text{
+      color: #f4ffff;}
+  .red-text {
+      color: red;
+    }
+    h1 {
+      font-family: Lobster, Monospace;
+      font-size: 60px;
+    }
+
+    p {
+      font-size: 20px;
+      font-family: Monospace;
+    }
+
+ 
+
+     
+      .smaller-image {
+        width: 800px;
+      }
+ </style>
+</head>
+<body>
+  <h1 class="blue-text">welcom to my page</h1>
+  <h2 class="red-text">The dead meme"uganda knuckles" </h2>
+<img class="smaller-image" src="http://i0.kym-cdn.com/entries/icons/original/000/025/067/ugandanknuck.jpg">
+<p class="red-text">¡§Ugandan Knuckles¡¨ has its origins in a nearly year-old joke, but thanks to an easily downloadable character model and the explosive world of VRChat, the problematic meme has been quickly spreading.
+
+Ugandan Knuckles didn¡¦t start out as the Ugandan Knuckles meme; the character is inspired by a goofy caricature of the echidna, who first made his appearance in Sonic the Hedgehog 3. The weird version of Knuckles made his debut in a Sonic Lost World video review from Gregzilla, a popular YouTuber with more than 120,000 subscribers. Other YouTubers latched on to the character and started to create ¡§Knuckles Sings¡¨ videos, a series of memes in which the deformed Knuckles sang a variety of songs, like Smash Mouth¡¦s ¡§All Star.¡¨
+
+It wasn¡¦t until September 2017 that a 3D model of the deformed echidna entered the world, giving birth to memesters everywhere. Still, it would be another three months before players of VRChat ¡X a Second Life-esque world that lets Oculus Rift and HTC Vive owners inhabit 3D models and interact with others in a variety of settings ¡X latched on to the model, downloading it in hordes and inserting hundreds of strange Knuckles into the game. Using inspiration from the movie Who Killed Captain Alex, the meme was born. Some phrases a lot of people use include: 'YOU DO NOT KNOW THE WAY!' , 'WHY R U RUNNING?!' , 'THE QUEEN, WHERE HAS SHE GONE!!' , '*clicking noises*' ,</p>
+<h3 class="orange-text"> "More about Uganda Warrior"</h3> 
+<li>
+  <a href="https://www.youtube.com/watch?v=05p59NF_akw">Best video ever</a>
+ </li>
+  </body>
+</html>
