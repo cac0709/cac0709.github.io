@@ -4,24 +4,22 @@
     <script>
   $(document).ready(function() {
     $("#hide").addClass("animated shake");
+    $("#show").addClass("animated bounce");
     $("#hide").parent().css("color", "gold");
-  
-    
-   
+    $("#show").parent().css("color", "gold"); 
     $("#hide").click(function(){
         $("p").hide();
-      
+  });
     $("#show").click(function(){
         $("p").show();
     });
 
-});
           
 
 
    
-
-  });
+ });
+  
 </script>
 
 <style>
